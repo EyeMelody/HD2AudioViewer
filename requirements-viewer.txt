@@ -1,0 +1,7 @@
+numpy>=2.2,<3
+PyAudio==0.2.14
+lz4>=4.4,<5
+tkinterdnd2==0.6.4
+packaging>=24.2,<27
+Pillow>=11,<13
+pyinstaller==6.22.3

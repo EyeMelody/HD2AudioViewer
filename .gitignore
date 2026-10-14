@@ -15,3 +15,20 @@ __pycache__/
 **/log.txt
 **/*.pickle
 **/database*
+
+# Local viewer build artifacts and investigation history
+/backups/
+/build-*/
+/output*/
+/test-output/
+/preview_cache/
+/friendlynames.db
+/log.txt.*
+/README_*_ZH.md
+/README_ZH.md
+/VALIDATION_ZH.md
+/HD2AudioReadOnly.spec
+/HD2AudioViewer.spec
+/viewer.py
+/test_viewer.py
+!/README_UPDATES_ZH.md
